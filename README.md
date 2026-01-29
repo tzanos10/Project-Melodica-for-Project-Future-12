@@ -26,7 +26,7 @@ Dimension tables are loaded first, followed by the fact table (FactSales).
 
 Open the Melodica.pbix file.
 
-The report connects directly to the ChinookDW database.
+The report connects directly to the MelodicaDW database.
 
 Data is analyzed using a star schema model.
 
